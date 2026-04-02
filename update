@@ -1,8 +1,7 @@
-{
-  "result": "success",
-  "version": "1.0.6",
-  "url": "http://IP/update.zip",
-  "size": "850000000",
-  "md5": "xxxxxxxxxxxxxxxxxxxxxxxx",
-  "force": "false"
-}
+<?xml version="1.0" encoding="utf-8"?>
+<update>
+    <version>00602001</version>
+    <url>http://192.168.1.10/update.zip</url>
+    <md5>xxxxxxxxxxxxxxxx</md5>
+    <size>850000000</size>
+</update>
