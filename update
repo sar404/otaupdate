@@ -1,5 +1,7 @@
 {
-  "version": "1.1.0",
-  "url": "http://yourserver.com/update.zip",
-  "changelog": "Fix bug & improve performance"
+  "result": "success",
+  "url": "http://your-ip/update.zip",
+  "version": "1.0.5",
+  "size": "850000000",
+  "md5": "xxxxxxxxxxxxxxxx"
 }
