@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
     <version>00502002</version>
-    <url>https://your-server/update.zip</url>
+    <url>https://android.googleapis.com/packages/ota-api/package/bdce802c3ce6e52a842b3b0486c14f9c2e0676a9.zip</url>
     <md5>xxxxxxxxxxxxxxxxxxxxxxxx</md5>
     <size>850000000</size>
 </update>
