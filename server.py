@@ -13,7 +13,7 @@ class OTAHandler(BaseHTTPRequestHandler):
         print("REQ:", body)
 
         # balas ke endpoint XML lokal
-        xml_url = f"http://{self.headers['Host']}/update.xml"
+        xml_url = "http://raw.githubusercontent.com/sar404/otaupdate/refs/heads/main/update.xml"
 
         self.send_response(200)
         self.send_header("Content-Type", "text/plain")
