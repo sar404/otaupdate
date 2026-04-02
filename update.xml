@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <update>
-    <firmware>00502002</firmware>
-    <device>sti6140d360</device>
-    <url>http://192.168.1.10/update.zip</url>
+    <version>20260402</version>
+    <url>http://your-server/update.zip</url>
+    <md5>xxxxxxxxxxxxxxxxxxxxxxxx</md5>
+    <size>123456789</size>
+    <description>OTA Update</description>
 </update>
