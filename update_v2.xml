@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<update>
+    <version>1.0.2</version>
+    <url>https://your-server/update_v2.zip</url>
+    <md5>xxxxxxxxxxxxxxxxxxxxxxxx</md5>
+    <size>850000000</size>
+</update>
