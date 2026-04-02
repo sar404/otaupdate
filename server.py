@@ -6,10 +6,10 @@ PORT = int(os.environ.get("PORT", 8000))
 
 # mapping firmware → XML
 OTA_MAP = {
-    "00502001": "http://raw.githubusercontent.com/sar404/otaupdate/refs/heads/main/update.xml",
+    "00502001": "http://raw.githubusercontent.com/sar404/otaupdate/refs/heads/main/update_v1.xml",
 }
 
-DEFAULT_XML = "http://raw.githubusercontent.com/sar404/otaupdate/refs/heads/main/update.xml"
+DEFAULT_XML = "http://raw.githubusercontent.com/sar404/otaupdate/refs/heads/main/update_v1.xml"
 
 class OTAHandler(BaseHTTPRequestHandler):
     def do_POST(self):
