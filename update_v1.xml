@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <update>
-    <version>1.0.1</version>
-    <url>https://your-server/update_v1.zip</url>
-    <md5>xxxxxxxxxxxxxxxxxxxxxxxx</md5>
-    <size>800000000</size>
+    <version>20260402</version>
+    <url>https://android.googleapis.com/packages/ota-api/package/fa99ef5d8357dbc33abf0b54f9d742d338c9a0ce.zip</url>
+    <md5>b8f35b89c284791cd74a6a5311092df6</md5>
+    <size>816536016</size>
+    <description>OTA Update</description>
 </update>
