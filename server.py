@@ -5,11 +5,11 @@ import os
 PORT = int(os.environ.get("PORT", 8000))
 
 OTA_MAP = {
-    "1.0.0": "https://raw.githubusercontent.com/user/repo/main/update_v1.xml",
-    "1.0.1": "https://raw.githubusercontent.com/user/repo/main/update_v2.xml",
+    "1.0.0": "https://raw.githubusercontent.com/sar404/otaupdate/refs/heads/main/update_v1.xml",
+    "1.0.1": "https://raw.githubusercontent.com/sar404/otaupdate/refs/heads/main/update_v2.xml",
 }
 
-DEFAULT_XML = "https://raw.githubusercontent.com/user/repo/main/update.xml"
+DEFAULT_XML = "https://raw.githubusercontent.com/sar404/otaupdate/refs/heads/main/update.xml"
 
 class OTAHandler(BaseHTTPRequestHandler):
     def do_POST(self):
