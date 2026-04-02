@@ -37,7 +37,7 @@ class OTAHandler(BaseHTTPRequestHandler):
             # response WAJIB format ini
             response = f"url={xml_url}"
 
-            self.send_response(200)
+    
             self.send_header("Content-Type", "text/plain")
             self.end_headers()
 
