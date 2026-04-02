@@ -1,7 +1,8 @@
 {
   "result": "success",
-  "url": "http://your-ip/update.zip",
-  "version": "1.0.5",
+  "version": "1.0.6",
+  "url": "http://IP/update.zip",
   "size": "850000000",
-  "md5": "xxxxxxxxxxxxxxxx"
+  "md5": "xxxxxxxxxxxxxxxxxxxxxxxx",
+  "force": "false"
 }
