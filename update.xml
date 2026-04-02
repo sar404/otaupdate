@@ -1,15 +1,8 @@
-<root>
-    <command name="update_with_inc_ota" force="true">
-
-        <url name="update.zip" locattr="/cache/update.zip" updatezip="true">
-            http://10.28.11.53:8080/otaupdate/update.zip
-        </url>
-
-        <md5 name="update.zip">
-            d41d8cd98f00b204e9800998ecf8427e
-        </md5>
-
-        <storagemem>856883200</storagemem>
-
-    </command>
-</root>
+{
+  "result": "success",
+  "version": "1.0.6",
+  "url": "http://IP/update.zip",
+  "size": "850000000",
+  "md5": "xxxxxxxxxxxxxxxxxxxxxxxx",
+  "force": "false"
+}
