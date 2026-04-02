@@ -3,6 +3,4 @@
     <firmware>00502002</firmware>
     <device>sti6140d360</device>
     <url>http://192.168.1.10/update.zip</url>
-    <md5>xxxxxxxxxxxxxxxx</md5>
-    <size>850000000</size>
 </update>
